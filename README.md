@@ -14,7 +14,8 @@
 </p>
 
 <br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuananh-developer&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh-developer&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=tuananh-developer&theme=radical" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh-developer&layout=compact&theme=radical&v=1" alt="Top Languages" height="165" />
 </p>
